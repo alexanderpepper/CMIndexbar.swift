@@ -2,7 +2,7 @@
 
 CMIndexBar allows you to modify the colors, font, and size of UITableView's index bar.
  
-This is a Swift port of the original (CMIndexBar)[https://github.com/CraigMerchant/CMIndexBar] library
+This is a Swift port of the original [CMIndexBar](https://github.com/CraigMerchant/CMIndexBar) library
 
 <img src="https://s3.amazonaws.com/cmindexbar.swift/CMIndexBar.png"/>
 
