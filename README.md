@@ -1,10 +1,8 @@
 # CMIndexBar.swift
 
-### A simple replacement for UITableView section index titles
-
-Allows you to modify the colors, font, and size of UITableView's index bar.
+CMIndexBar allows you to modify the colors, font, and size of UITableView's index bar.
  
-Based on (CraigMerchant/CMIndexBar)[https://github.com/CraigMerchant/CMIndexBar]
+This is a Swift port of the original (CMIndexBar)[https://github.com/CraigMerchant/CMIndexBar] library
 
 <img src="https://s3.amazonaws.com/cmindexbar.swift/CMIndexBar.png"/>
 
