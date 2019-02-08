@@ -24,9 +24,9 @@ class CMIndexBar: UIView {
 
         // Defaults
         backgroundColor = UIColor.clear
-        textColor = Colors.chapterIndexColor()
-        highlightedBackgroundColor = UIColor.clear
-        font = UIFont(name: Constants.timesNewRomanBold, size: 12.0)
+        textColor = UIColor.darkGray
+        highlightedBackgroundColor = UIColor.lightGray
+        font = UIFont(name: "TimesNewRomanPS-BoldMT", size: 12.0) 
     }
 
     required init?(coder aDecoder: NSCoder) {
